@@ -1,7 +1,5 @@
 # NBA prognzoa
 
-# nba prognoza
-
 | Ucesnik        | Bodova
 | ------------- |:-------------:|
 | Aleksa      | 0 |
