@@ -2,7 +2,7 @@
 
 | Ucesnik        | Bodova
 | ------------- |:-------------:|
-| Aleksa      | 12 |
+| Aleksa      | 13 |
 | Stajic| 11 |
 | Vlajko | 11 |
 | Kitanovic     | 11 |
