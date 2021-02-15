@@ -7,5 +7,5 @@
 | Stajic| 11 |
 | Vlajko | 11 |
 | Isidor      | 10 |
-| Fiki | 8 |
 | Darko     | 8 |
+| Fiki | 8 |
