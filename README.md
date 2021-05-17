@@ -9,3 +9,4 @@
 | Isidor      | 0 |
 | Darko     | 0 |
 | Fiki | 0 |
+| Bajgo | 0 |
