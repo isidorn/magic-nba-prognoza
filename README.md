@@ -2,11 +2,11 @@
 
 | Ucesnik        | Bodova
 | ------------- |:-------------:|
-| Aleksa      | 20 |
-| Bajgo | 18 |
-| Vlajko | 18 |
-| Stajic| 18 |
-| Fiki | 17 |
-| Isidor      | 15 |
+| Bajgo | 23 |
+| Vlajko | 23 |
+| Aleksa      | 22 |
+| Stajic| 21 |
+| Fiki | 20 |
+| Kitanovic     | 18 |
+| Isidor      | 17 |
 | Darko     | 14 |
-| Kitanovic     | 13 |
