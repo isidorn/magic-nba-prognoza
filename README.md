@@ -2,8 +2,8 @@
 
 | Ucesnik        | Bodova
 | ------------- |:-------------:|
+| Vlajko | 25 |
 | Bajgo | 23 |
-| Vlajko | 23 |
 | Aleksa      | 22 |
 | Stajic| 21 |
 | Fiki | 20 |
