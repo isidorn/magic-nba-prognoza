@@ -2,7 +2,7 @@
 
 | Ucesnik        | Bodova
 | ------------- |:-------------:|
-| Vlajko | 25 |
+| Vlajko | 27 |
 | Bajgo | 23 |
 | Aleksa      | 22 |
 | Stajic| 21 |
